@@ -1,0 +1,24 @@
+{
+ "current": {
+  "date": "2026-10-07",
+  "values": {
+   "Open issues": 87,
+   "Closed issues": 81,
+   "Closed this week": 0,
+   "Opened this week": 14,
+   "Merges this week": 49,
+   "Hybrid configs": 117
+  }
+ },
+ "previous": {
+  "date": "2026-09-29",
+  "values": {
+   "Open issues": 72,
+   "Closed issues": 77,
+   "Closed this week": 25,
+   "Opened this week": 28,
+   "Merges this week": 37,
+   "Hybrid configs": 90
+  }
+ }
+}
